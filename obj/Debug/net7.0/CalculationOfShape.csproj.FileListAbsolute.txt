@@ -1,0 +1,30 @@
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.exe
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.dll
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.pdb
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.dll
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\refint\CalculationOfShape.dll
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.pdb
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\CalculationOfShape\obj\Debug\net7.0\ref\CalculationOfShape.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.exe
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\bin\Debug\net7.0\CalculationOfShape.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\refint\CalculationOfShape.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\CalculationOfShape.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\CalculationOfShape\obj\Debug\net7.0\ref\CalculationOfShape.dll
